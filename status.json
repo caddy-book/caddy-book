@@ -1,0 +1,19 @@
+{
+  "code": "en",
+  "language": "English",
+  "maintainers": ["humboldtux"],
+  "files": {
+    "01-introduction": {
+      "1-introduction.asc": 0,
+      "sections/about-caddy.asc": 0,
+      "sections/installation.asc": 0,
+      "sections/serving-your-first-site.asc": 0,
+      "sections/command-line.asc": 0,
+      "sections/help.asc": 0
+    },
+    "02-caddy-basics": {
+      "1-git-basics.asc": 0,
+      "sections/caddyfile.asc": 0
+    }
+  }
+}
