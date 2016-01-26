@@ -12,7 +12,7 @@
       "sections/help.asc": 0
     },
     "02-caddy-basics": {
-      "1-git-basics.asc": 0,
+      "1-caddy-basics.asc": 0,
       "sections/caddyfile.asc": 0
     }
   }
